@@ -1,0 +1,14 @@
+{
+  "manifest_version":2,
+  "name":"ConoHa theme",
+  "version":"1.0",
+  "theme":{
+    "images":{
+      "theme_ntp_background":"AnCo_RGB_a.png"
+    },
+    "properties" : {
+      "ntp_background_alignment" : "right bottom",
+      "ntp_background_repeat" : "no-repeat"
+    }
+  }
+}
